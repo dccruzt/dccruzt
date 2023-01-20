@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Dani!
 
-I'm a software engineer with 5+ years of experience in mobile development. My technology stack involves Flutter framework, Android SDK and a bit of javascript.
-
+I'm a software engineer with 5+ years of experience in mobile development. Originally from 🇵🇪 and currently based in 🇧🇷. My technology stack involves Flutter framework, Android SDK and a bit of javascript.
 
 
 <!-- - 🔭 I’m currently working on ... -->
@@ -11,3 +10,4 @@ I'm a software engineer with 5+ years of experience in mobile development. My te
 - 📫 How to reach me: dccruzt@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Don't like coffee 😬 I keep myself hydrated with a full bottle of water
+
