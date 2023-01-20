@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm Dani!
 
-<!--
-**dccruzt/dccruzt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer with 5+ years of experience in mobile development. My technology stack involves Flutter framework, Android SDK and a bit of javascript.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- - 🔭 I’m currently working on ... -->
+- 🌱 I’m currently learning Kotlin for Mobile development
+- 👯 I’m looking to collaborate on any initiative to promote the diversity and inclusion in tech
+- 💬 Brainstorm with me over mobile development, algorithms, career and travels
+- 📫 How to reach me: dccruzt@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: Don't like coffee 😬 I keep myself hydrated with a full bottle of water
