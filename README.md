@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Dani!
+### Hi there 👋, I'm Daniela!
 
 I'm a software engineer with 5+ years of experience in mobile development. Originally from 🇵🇪 and currently based in 🇧🇷. My technology stack involves Flutter framework, Android SDK and a bit of javascript.
 
